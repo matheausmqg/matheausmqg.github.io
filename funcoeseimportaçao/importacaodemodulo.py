@@ -1,6 +1,6 @@
 def minha_funcao():
-    print('Rodando minha funcao!')
-    return 'Retorno'
+    print('Rodando minha_funcao do meu_módulo!')
+    return 10
 
 
 x = 30
